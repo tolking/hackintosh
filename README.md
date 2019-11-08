@@ -9,6 +9,22 @@
 - `WIFI`: BCM94352Z
 - `Disk`: PM 961
 
+### 10.15.1
+
+`Working`
+
+- CPU
+- GPU
+- Audio
+- Ethernet
+- WIFI
+- Bluetooth
+- USB ports
+- Disk
+- HDMI
+- HDMI Audio
+- Sleep/Wake
+- AirPort
 
 ### 10.14.4
 
